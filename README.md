@@ -1,1 +1,4 @@
-# Backdoor_Project
+Cette repository a été faite par:
+
+- Nicolas Lemay
+- Alexandre Lemarier
